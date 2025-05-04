@@ -1,3 +1,4 @@
+import uvicorn
 from fastapi import FastAPI, Request, HTTPException
 from fastapi.middleware.cors import CORSMiddleware
 from pydantic import BaseModel
@@ -87,6 +88,4 @@ def recommend(query: QueryRequest):
 
 
 if __name__ == "_main_":
-    import uvicorn
-
-    uvicorn.run("api.app:app", host="127.0.0.1", port=8000, reload=True)
+    uvicorn.run("api.app:app", host="0.0.0.0", port=8000)
