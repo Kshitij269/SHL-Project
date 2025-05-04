@@ -124,9 +124,7 @@ def main():
 
                 if results:
                     st.success(f"Found recommendations in {processing_time:.2f} seconds")
-
-                    st.subheader(f"📊 Recommended Assessments ({results.get('count', 0)})")
-
+                    
                     recommendations = results["recommendations"].get('recommended_assessments', [])
                     if not recommendations:
                         st.warning("No specific assessments found for these criteria. Try adjusting your job description.")
