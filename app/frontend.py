@@ -6,7 +6,7 @@ import os
 from typing import Dict, List, Any
 
 # API Configuration
-API_URL = os.environ.get("API_URL", "https://shl-assessments.streamlit.app")
+API_URL = os.environ.get("API_URL", "https://shl-project.onrender.com")
 RECOMMEND_ENDPOINT = f"{API_URL}/recommend"
 HEALTH_ENDPOINT = f"{API_URL}/health"
 
