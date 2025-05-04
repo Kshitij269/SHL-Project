@@ -22,6 +22,7 @@ app = FastAPI(
 app.add_middleware(
     CORSMiddleware,
     allow_origins=["*"],
+    allow_origins=["https://shl-assessments.streamlit.app/"],
     allow_credentials=True,
     allow_methods=["*"],
     allow_headers=["*"],
@@ -63,7 +64,7 @@ def recommend(query: QueryRequest):
         raw_results = fetch_assessments(filters)
 
         recommendations = save_assessments(raw_results)
-        
+
         results = get_top_assessments_with_gemini(query.query, k=10)
 
         with open("recommendationsResponse.txt", "w", encoding="utf-8") as file:
@@ -72,7 +73,7 @@ def recommend(query: QueryRequest):
                     "recommendations": results,
                 },
                 file,
-                indent=2,  
+                indent=2,
             )
 
         processing_time = time.time() - start_time
