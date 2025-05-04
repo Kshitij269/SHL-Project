@@ -1,0 +1,1248 @@
+[
+    {
+        "url": "https://www.shl.com/products/product-catalog/view/bookkeeping-accounting-auditing-clerk-short-form/",
+        "description": "The Bookkeeping, Accounting, and Auditing Clerk solution is for entry-level positions that involve entering numerical data into computer systems and maintaining financial records. Sample tasks for this job include, but are not limited to: entering financial data into computers; checking financial records for accuracy; perform routine computations on financial data. Potential job titles that use this solution are: Accounting Clerk, Bookkeeper, Accounting Associate, Auditing Clerk and Accounts Receivable Clerk.",
+        "job_levels": [
+            "Entry-Level"
+        ],
+        "languages": [
+            "English (USA)"
+        ],
+        "assessment_time": "Approximate Completion Time in minutes = 49",
+        "test_type": "P",
+        "remote_testing": "No"
+    },
+    {
+        "url": "https://www.shl.com/products/product-catalog/view/general-entry-level-data-entry-7-0-solution/",
+        "description": "Our General Entry Level – Data Entry 7.0 solution is designed for entry-level positions that include entering data into computers or data management systems. This solution measures speed and accuracy at typing text and numbers into forms and predicts the following types of behaviors foundational to all jobs: being on-time to work; following rules and policies; treating others respectfully; producing quality work; meeting goals; and approaching work in a thorough and precise manner.  \r\n\r\nThis solution can be used across all industries with entry-level positions. Example titles include, but are not limited to: Accounting Clerk, Accounts Receivable Clerk, Administrative Clerk, Clerical Aide, Clerical Assistant, Office Assistant, Office Services Specialist, Staff Assistant.Report Language Availability:English (USA)",
+        "job_levels": [
+            "General Population",
+            "Entry-Level"
+        ],
+        "languages": [
+            "English (USA)"
+        ],
+        "assessment_time": "Approximate Completion Time in minutes = 24",
+        "test_type": "B",
+        "remote_testing": "No"
+    },
+    {
+        "url": "https://www.shl.com/products/product-catalog/view/accounts-payable-simulation-new/",
+        "description": "Simulated data entry test that measures the ability to process payables and vendor invoices.",
+        "job_levels": [
+            "Entry-Level",
+            "Graduate",
+            "Mid-Professional",
+            "Professional Individual Contributor"
+        ],
+        "languages": [
+            "English (USA)"
+        ],
+        "assessment_time": "Approximate Completion Time in minutes = 8",
+        "test_type": "S",
+        "remote_testing": "No"
+    },
+    {
+        "url": "https://www.shl.com/products/product-catalog/view/accounts-receivable-simulation-new/",
+        "description": "Simulated data entry test that measures the ability to process receivables and invoices.",
+        "job_levels": [
+            "Entry-Level",
+            "Graduate",
+            "Mid-Professional",
+            "Professional Individual Contributor"
+        ],
+        "languages": [
+            "English (USA)"
+        ],
+        "assessment_time": "Approximate Completion Time in minutes = 8",
+        "test_type": "S",
+        "remote_testing": "No"
+    },
+    {
+        "url": "https://www.shl.com/products/product-catalog/view/basic-computer-literacy-windows-10-new/",
+        "description": "The Basic Computer Literacy (Windows 10) simulation measures knowledge of general computer terminology, processes, and applications and the ability to perform certain operations in a simulated environment resembling the actual application. This simulation consists of both multiple choice and simulation-based questions, and includes the following topics: Application Software, Computer Terms, Internet and Email, Managing Files, Operating System, and Parts of the Computer.",
+        "job_levels": [
+            "Entry-Level"
+        ],
+        "languages": [
+            "English (USA)"
+        ],
+        "assessment_time": "Approximate Completion Time in minutes = 30",
+        "test_type": "S",
+        "remote_testing": "No"
+    },
+    {
+        "url": "https://www.shl.com/products/product-catalog/view/data-entry-new/",
+        "description": "Simulated data entry test that measures the ability to accurately transcribe data from pre-filled forms and the ability to verify pre-filled data.",
+        "job_levels": [
+            "Entry-Level"
+        ],
+        "languages": [
+            "English (USA)"
+        ],
+        "assessment_time": "Approximate Completion Time in minutes = 4",
+        "test_type": "S",
+        "remote_testing": "No"
+    },
+    {
+        "url": "https://www.shl.com/products/product-catalog/view/data-entry-alphanumeric-split-screen-us/",
+        "description": "The Data Entry Alphanumeric Split Screen - US assessment measures speed and accuracy at typing text and numbers into forms. The information includes business-related text and numbers such as invoice number, address, product number and amount. The test assesses for speed and accuracy.",
+        "job_levels": [
+            "Professional Individual Contributor",
+            "Mid-Professional",
+            "Front Line Manager",
+            "Entry-Level"
+        ],
+        "languages": [
+            "English (USA)"
+        ],
+        "assessment_time": "Approximate Completion Time in minutes = 5",
+        "test_type": "K",
+        "remote_testing": "No"
+    },
+    {
+        "url": "https://www.shl.com/products/product-catalog/view/data-entry-numeric-split-screen-us/",
+        "description": "The Data Entry Numeric Split Screen - US assessment measures speed and accuracy at typing numbers into forms. The information candidates must enter includes business-related records including number fields such as customer number, order number, item number and quantity. Candidates may use either the keyboard's numeric keypad or the number keys at the top of the keyboard.",
+        "job_levels": [
+            "Mid-Professional",
+            "Professional Individual Contributor",
+            "Entry-Level",
+            "Front Line Manager"
+        ],
+        "languages": [
+            "English (USA)"
+        ],
+        "assessment_time": "Approximate Completion Time in minutes = 5",
+        "test_type": "K",
+        "remote_testing": "No"
+    },
+    {
+        "url": "https://www.shl.com/products/product-catalog/view/data-entry-ten-key-split-screen/",
+        "description": "Data Entry Ten Key Split Screen assessment measures ability to enter numbers using a numeric keypad. The test measures accuracy and speed.",
+        "job_levels": [
+            "Entry-Level",
+            "Front Line Manager",
+            "Mid-Professional",
+            "Professional Individual Contributor"
+        ],
+        "languages": [
+            "English (USA)"
+        ],
+        "assessment_time": "Approximate Completion Time in minutes = 3",
+        "test_type": "K",
+        "remote_testing": "No"
+    },
+    {
+        "url": "https://www.shl.com/products/product-catalog/view/microsoft-excel-365-essentials-new/",
+        "description": "The Microsoft Excel 365 - Essentials simulation evaluates ability to perform certain operations in a simulated environment of MS Excel, and includes the following topics: Applying Formulas and Functions, Creating and Analyzing Data, Formatting Cells, Data, and Content, Managing Workbooks and Worksheets, Presenting Data Visually, Printing and Views, and Sharing, Maintaining, and Securing Workbooks.",
+        "job_levels": [
+            "Entry-Level"
+        ],
+        "languages": [
+            "English (USA)"
+        ],
+        "assessment_time": "Approximate Completion Time in minutes = 30",
+        "test_type": "K",
+        "remote_testing": "No"
+    },
+    {
+        "url": "https://www.shl.com/products/product-catalog/view/microsoft-excel-365-new/",
+        "description": "The Microsoft Excel 365 simulation evaluates ability to perform certain operations in a simulated environment of MS Excel, and includes the following topics: Applying Formulas and Functions, Creating and Analyzing Data, Formatting Cells, Data, and Content, Managing Workbooks and Worksheets, Presenting Data Visually, Printing and Views, and Sharing, Maintaining, and Securing Workbooks.",
+        "job_levels": [
+            "Entry-Level"
+        ],
+        "languages": [
+            "English (USA)"
+        ],
+        "assessment_time": "Approximate Completion Time in minutes = 35",
+        "test_type": "K",
+        "remote_testing": "No"
+    },
+    {
+        "url": "https://www.shl.com/products/product-catalog/view/ms-excel-new/",
+        "description": "Multi-choice test that measures the ability to use MS Excel to maintain, organize, analyze and present numeric data.",
+        "job_levels": [
+            "Entry-Level",
+            "Graduate",
+            "Manager",
+            "Mid-Professional",
+            "Professional Individual Contributor",
+            "Supervisor"
+        ],
+        "languages": [
+            "English (USA)",
+            "Spanish",
+            "French",
+            "Portuguese (Brazil)"
+        ],
+        "assessment_time": "Approximate Completion Time in minutes = 6",
+        "test_type": "K",
+        "remote_testing": "No"
+    },
+    {
+        "url": "https://www.shl.com/products/product-catalog/view/ms-office-basic-computer-literacy-sim-new/",
+        "description": "Simulation based test that measures the ability to use basic computer operations, browser navigation, MS office and email.",
+        "job_levels": [
+            "Entry-Level",
+            "Graduate",
+            "Manager",
+            "Mid-Professional",
+            "Professional Individual Contributor",
+            "Supervisor"
+        ],
+        "languages": [
+            "English (USA)"
+        ],
+        "assessment_time": "Approximate Completion Time in minutes = 5",
+        "test_type": "S",
+        "remote_testing": "No"
+    },
+    {
+        "url": "https://www.shl.com/products/product-catalog/view/ms-word-new/",
+        "description": "Multi-choice test that measures the ability to use MS Word to record and save textual information.",
+        "job_levels": [
+            "Professional Individual Contributor",
+            "Supervisor",
+            "Mid-Professional",
+            "Entry-Level",
+            "Graduate",
+            "Manager"
+        ],
+        "languages": [
+            "Spanish",
+            "French",
+            "Portuguese (Brazil)",
+            "English (USA)"
+        ],
+        "assessment_time": "Approximate Completion Time in minutes = 4",
+        "test_type": "K",
+        "remote_testing": "No"
+    },
+    {
+        "url": "https://www.shl.com/products/product-catalog/view/bookkeeping-accounting-auditing-clerk-short-form/",
+        "description": "The Bookkeeping, Accounting, and Auditing Clerk solution is for entry-level positions that involve entering numerical data into computer systems and maintaining financial records. Sample tasks for this job include, but are not limited to: entering financial data into computers; checking financial records for accuracy; perform routine computations on financial data. Potential job titles that use this solution are: Accounting Clerk, Bookkeeper, Accounting Associate, Auditing Clerk and Accounts Receivable Clerk.",
+        "job_levels": [
+            "Entry-Level"
+        ],
+        "languages": [
+            "English (USA)"
+        ],
+        "assessment_time": "Approximate Completion Time in minutes = 49",
+        "test_type": "P",
+        "remote_testing": "No"
+    },
+    {
+        "url": "https://www.shl.com/products/product-catalog/view/general-entry-level-data-entry-7-0-solution/",
+        "description": "Our General Entry Level – Data Entry 7.0 solution is designed for entry-level positions that include entering data into computers or data management systems. This solution measures speed and accuracy at typing text and numbers into forms and predicts the following types of behaviors foundational to all jobs: being on-time to work; following rules and policies; treating others respectfully; producing quality work; meeting goals; and approaching work in a thorough and precise manner.  \r\n\r\nThis solution can be used across all industries with entry-level positions. Example titles include, but are not limited to: Accounting Clerk, Accounts Receivable Clerk, Administrative Clerk, Clerical Aide, Clerical Assistant, Office Assistant, Office Services Specialist, Staff Assistant.Report Language Availability:English (USA)",
+        "job_levels": [
+            "General Population",
+            "Entry-Level"
+        ],
+        "languages": [
+            "English (USA)"
+        ],
+        "assessment_time": "Approximate Completion Time in minutes = 24",
+        "test_type": "B",
+        "remote_testing": "No"
+    },
+    {
+        "url": "https://www.shl.com/products/product-catalog/view/accounts-payable-simulation-new/",
+        "description": "Simulated data entry test that measures the ability to process payables and vendor invoices.",
+        "job_levels": [
+            "Entry-Level",
+            "Graduate",
+            "Mid-Professional",
+            "Professional Individual Contributor"
+        ],
+        "languages": [
+            "English (USA)"
+        ],
+        "assessment_time": "Approximate Completion Time in minutes = 8",
+        "test_type": "S",
+        "remote_testing": "No"
+    },
+    {
+        "url": "https://www.shl.com/products/product-catalog/view/accounts-receivable-simulation-new/",
+        "description": "Simulated data entry test that measures the ability to process receivables and invoices.",
+        "job_levels": [
+            "Entry-Level",
+            "Graduate",
+            "Mid-Professional",
+            "Professional Individual Contributor"
+        ],
+        "languages": [
+            "English (USA)"
+        ],
+        "assessment_time": "Approximate Completion Time in minutes = 8",
+        "test_type": "S",
+        "remote_testing": "No"
+    },
+    {
+        "url": "https://www.shl.com/products/product-catalog/view/basic-computer-literacy-windows-10-new/",
+        "description": "The Basic Computer Literacy (Windows 10) simulation measures knowledge of general computer terminology, processes, and applications and the ability to perform certain operations in a simulated environment resembling the actual application. This simulation consists of both multiple choice and simulation-based questions, and includes the following topics: Application Software, Computer Terms, Internet and Email, Managing Files, Operating System, and Parts of the Computer.",
+        "job_levels": [
+            "Entry-Level"
+        ],
+        "languages": [
+            "English (USA)"
+        ],
+        "assessment_time": "Approximate Completion Time in minutes = 30",
+        "test_type": "S",
+        "remote_testing": "No"
+    },
+    {
+        "url": "https://www.shl.com/products/product-catalog/view/data-entry-new/",
+        "description": "Simulated data entry test that measures the ability to accurately transcribe data from pre-filled forms and the ability to verify pre-filled data.",
+        "job_levels": [
+            "Entry-Level"
+        ],
+        "languages": [
+            "English (USA)"
+        ],
+        "assessment_time": "Approximate Completion Time in minutes = 4",
+        "test_type": "S",
+        "remote_testing": "No"
+    },
+    {
+        "url": "https://www.shl.com/products/product-catalog/view/data-entry-alphanumeric-split-screen-us/",
+        "description": "The Data Entry Alphanumeric Split Screen - US assessment measures speed and accuracy at typing text and numbers into forms. The information includes business-related text and numbers such as invoice number, address, product number and amount. The test assesses for speed and accuracy.",
+        "job_levels": [
+            "Professional Individual Contributor",
+            "Mid-Professional",
+            "Front Line Manager",
+            "Entry-Level"
+        ],
+        "languages": [
+            "English (USA)"
+        ],
+        "assessment_time": "Approximate Completion Time in minutes = 5",
+        "test_type": "K",
+        "remote_testing": "No"
+    },
+    {
+        "url": "https://www.shl.com/products/product-catalog/view/data-entry-numeric-split-screen-us/",
+        "description": "The Data Entry Numeric Split Screen - US assessment measures speed and accuracy at typing numbers into forms. The information candidates must enter includes business-related records including number fields such as customer number, order number, item number and quantity. Candidates may use either the keyboard's numeric keypad or the number keys at the top of the keyboard.",
+        "job_levels": [
+            "Mid-Professional",
+            "Professional Individual Contributor",
+            "Entry-Level",
+            "Front Line Manager"
+        ],
+        "languages": [
+            "English (USA)"
+        ],
+        "assessment_time": "Approximate Completion Time in minutes = 5",
+        "test_type": "K",
+        "remote_testing": "No"
+    },
+    {
+        "url": "https://www.shl.com/products/product-catalog/view/data-entry-ten-key-split-screen/",
+        "description": "Data Entry Ten Key Split Screen assessment measures ability to enter numbers using a numeric keypad. The test measures accuracy and speed.",
+        "job_levels": [
+            "Entry-Level",
+            "Front Line Manager",
+            "Mid-Professional",
+            "Professional Individual Contributor"
+        ],
+        "languages": [
+            "English (USA)"
+        ],
+        "assessment_time": "Approximate Completion Time in minutes = 3",
+        "test_type": "K",
+        "remote_testing": "No"
+    },
+    {
+        "url": "https://www.shl.com/products/product-catalog/view/microsoft-excel-365-essentials-new/",
+        "description": "The Microsoft Excel 365 - Essentials simulation evaluates ability to perform certain operations in a simulated environment of MS Excel, and includes the following topics: Applying Formulas and Functions, Creating and Analyzing Data, Formatting Cells, Data, and Content, Managing Workbooks and Worksheets, Presenting Data Visually, Printing and Views, and Sharing, Maintaining, and Securing Workbooks.",
+        "job_levels": [
+            "Entry-Level"
+        ],
+        "languages": [
+            "English (USA)"
+        ],
+        "assessment_time": "Approximate Completion Time in minutes = 30",
+        "test_type": "K",
+        "remote_testing": "No"
+    },
+    {
+        "url": "https://www.shl.com/products/product-catalog/view/microsoft-excel-365-new/",
+        "description": "The Microsoft Excel 365 simulation evaluates ability to perform certain operations in a simulated environment of MS Excel, and includes the following topics: Applying Formulas and Functions, Creating and Analyzing Data, Formatting Cells, Data, and Content, Managing Workbooks and Worksheets, Presenting Data Visually, Printing and Views, and Sharing, Maintaining, and Securing Workbooks.",
+        "job_levels": [
+            "Entry-Level"
+        ],
+        "languages": [
+            "English (USA)"
+        ],
+        "assessment_time": "Approximate Completion Time in minutes = 35",
+        "test_type": "K",
+        "remote_testing": "No"
+    },
+    {
+        "url": "https://www.shl.com/products/product-catalog/view/ms-excel-new/",
+        "description": "Multi-choice test that measures the ability to use MS Excel to maintain, organize, analyze and present numeric data.",
+        "job_levels": [
+            "Entry-Level",
+            "Graduate",
+            "Manager",
+            "Mid-Professional",
+            "Professional Individual Contributor",
+            "Supervisor"
+        ],
+        "languages": [
+            "English (USA)",
+            "Spanish",
+            "French",
+            "Portuguese (Brazil)"
+        ],
+        "assessment_time": "Approximate Completion Time in minutes = 6",
+        "test_type": "K",
+        "remote_testing": "No"
+    },
+    {
+        "url": "https://www.shl.com/products/product-catalog/view/ms-office-basic-computer-literacy-sim-new/",
+        "description": "Simulation based test that measures the ability to use basic computer operations, browser navigation, MS office and email.",
+        "job_levels": [
+            "Entry-Level",
+            "Graduate",
+            "Manager",
+            "Mid-Professional",
+            "Professional Individual Contributor",
+            "Supervisor"
+        ],
+        "languages": [
+            "English (USA)"
+        ],
+        "assessment_time": "Approximate Completion Time in minutes = 5",
+        "test_type": "S",
+        "remote_testing": "No"
+    },
+    {
+        "url": "https://www.shl.com/products/product-catalog/view/ms-word-new/",
+        "description": "Multi-choice test that measures the ability to use MS Word to record and save textual information.",
+        "job_levels": [
+            "Professional Individual Contributor",
+            "Supervisor",
+            "Mid-Professional",
+            "Entry-Level",
+            "Graduate",
+            "Manager"
+        ],
+        "languages": [
+            "Spanish",
+            "French",
+            "Portuguese (Brazil)",
+            "English (USA)"
+        ],
+        "assessment_time": "Approximate Completion Time in minutes = 4",
+        "test_type": "K",
+        "remote_testing": "No"
+    },
+    {
+        "url": "https://www.shl.com/products/product-catalog/view/bookkeeping-accounting-auditing-clerk-short-form/",
+        "description": "The Bookkeeping, Accounting, and Auditing Clerk solution is for entry-level positions that involve entering numerical data into computer systems and maintaining financial records. Sample tasks for this job include, but are not limited to: entering financial data into computers; checking financial records for accuracy; perform routine computations on financial data. Potential job titles that use this solution are: Accounting Clerk, Bookkeeper, Accounting Associate, Auditing Clerk and Accounts Receivable Clerk.",
+        "job_levels": [
+            "Entry-Level"
+        ],
+        "languages": [
+            "English (USA)"
+        ],
+        "assessment_time": "Approximate Completion Time in minutes = 49",
+        "test_type": "P",
+        "remote_testing": "No"
+    },
+    {
+        "url": "https://www.shl.com/products/product-catalog/view/general-entry-level-data-entry-7-0-solution/",
+        "description": "Our General Entry Level – Data Entry 7.0 solution is designed for entry-level positions that include entering data into computers or data management systems. This solution measures speed and accuracy at typing text and numbers into forms and predicts the following types of behaviors foundational to all jobs: being on-time to work; following rules and policies; treating others respectfully; producing quality work; meeting goals; and approaching work in a thorough and precise manner.  \r\n\r\nThis solution can be used across all industries with entry-level positions. Example titles include, but are not limited to: Accounting Clerk, Accounts Receivable Clerk, Administrative Clerk, Clerical Aide, Clerical Assistant, Office Assistant, Office Services Specialist, Staff Assistant.Report Language Availability:English (USA)",
+        "job_levels": [
+            "General Population",
+            "Entry-Level"
+        ],
+        "languages": [
+            "English (USA)"
+        ],
+        "assessment_time": "Approximate Completion Time in minutes = 24",
+        "test_type": "B",
+        "remote_testing": "No"
+    },
+    {
+        "url": "https://www.shl.com/products/product-catalog/view/accounts-payable-simulation-new/",
+        "description": "Simulated data entry test that measures the ability to process payables and vendor invoices.",
+        "job_levels": [
+            "Entry-Level",
+            "Graduate",
+            "Mid-Professional",
+            "Professional Individual Contributor"
+        ],
+        "languages": [
+            "English (USA)"
+        ],
+        "assessment_time": "Approximate Completion Time in minutes = 8",
+        "test_type": "S",
+        "remote_testing": "No"
+    },
+    {
+        "url": "https://www.shl.com/products/product-catalog/view/accounts-receivable-simulation-new/",
+        "description": "Simulated data entry test that measures the ability to process receivables and invoices.",
+        "job_levels": [
+            "Entry-Level",
+            "Graduate",
+            "Mid-Professional",
+            "Professional Individual Contributor"
+        ],
+        "languages": [
+            "English (USA)"
+        ],
+        "assessment_time": "Approximate Completion Time in minutes = 8",
+        "test_type": "S",
+        "remote_testing": "No"
+    },
+    {
+        "url": "https://www.shl.com/products/product-catalog/view/basic-computer-literacy-windows-10-new/",
+        "description": "The Basic Computer Literacy (Windows 10) simulation measures knowledge of general computer terminology, processes, and applications and the ability to perform certain operations in a simulated environment resembling the actual application. This simulation consists of both multiple choice and simulation-based questions, and includes the following topics: Application Software, Computer Terms, Internet and Email, Managing Files, Operating System, and Parts of the Computer.",
+        "job_levels": [
+            "Entry-Level"
+        ],
+        "languages": [
+            "English (USA)"
+        ],
+        "assessment_time": "Approximate Completion Time in minutes = 30",
+        "test_type": "S",
+        "remote_testing": "No"
+    },
+    {
+        "url": "https://www.shl.com/products/product-catalog/view/data-entry-new/",
+        "description": "Simulated data entry test that measures the ability to accurately transcribe data from pre-filled forms and the ability to verify pre-filled data.",
+        "job_levels": [
+            "Entry-Level"
+        ],
+        "languages": [
+            "English (USA)"
+        ],
+        "assessment_time": "Approximate Completion Time in minutes = 4",
+        "test_type": "S",
+        "remote_testing": "No"
+    },
+    {
+        "url": "https://www.shl.com/products/product-catalog/view/data-entry-alphanumeric-split-screen-us/",
+        "description": "The Data Entry Alphanumeric Split Screen - US assessment measures speed and accuracy at typing text and numbers into forms. The information includes business-related text and numbers such as invoice number, address, product number and amount. The test assesses for speed and accuracy.",
+        "job_levels": [
+            "Professional Individual Contributor",
+            "Mid-Professional",
+            "Front Line Manager",
+            "Entry-Level"
+        ],
+        "languages": [
+            "English (USA)"
+        ],
+        "assessment_time": "Approximate Completion Time in minutes = 5",
+        "test_type": "K",
+        "remote_testing": "No"
+    },
+    {
+        "url": "https://www.shl.com/products/product-catalog/view/data-entry-numeric-split-screen-us/",
+        "description": "The Data Entry Numeric Split Screen - US assessment measures speed and accuracy at typing numbers into forms. The information candidates must enter includes business-related records including number fields such as customer number, order number, item number and quantity. Candidates may use either the keyboard's numeric keypad or the number keys at the top of the keyboard.",
+        "job_levels": [
+            "Mid-Professional",
+            "Professional Individual Contributor",
+            "Entry-Level",
+            "Front Line Manager"
+        ],
+        "languages": [
+            "English (USA)"
+        ],
+        "assessment_time": "Approximate Completion Time in minutes = 5",
+        "test_type": "K",
+        "remote_testing": "No"
+    },
+    {
+        "url": "https://www.shl.com/products/product-catalog/view/data-entry-ten-key-split-screen/",
+        "description": "Data Entry Ten Key Split Screen assessment measures ability to enter numbers using a numeric keypad. The test measures accuracy and speed.",
+        "job_levels": [
+            "Entry-Level",
+            "Front Line Manager",
+            "Mid-Professional",
+            "Professional Individual Contributor"
+        ],
+        "languages": [
+            "English (USA)"
+        ],
+        "assessment_time": "Approximate Completion Time in minutes = 3",
+        "test_type": "K",
+        "remote_testing": "No"
+    },
+    {
+        "url": "https://www.shl.com/products/product-catalog/view/microsoft-excel-365-essentials-new/",
+        "description": "The Microsoft Excel 365 - Essentials simulation evaluates ability to perform certain operations in a simulated environment of MS Excel, and includes the following topics: Applying Formulas and Functions, Creating and Analyzing Data, Formatting Cells, Data, and Content, Managing Workbooks and Worksheets, Presenting Data Visually, Printing and Views, and Sharing, Maintaining, and Securing Workbooks.",
+        "job_levels": [
+            "Entry-Level"
+        ],
+        "languages": [
+            "English (USA)"
+        ],
+        "assessment_time": "Approximate Completion Time in minutes = 30",
+        "test_type": "K",
+        "remote_testing": "No"
+    },
+    {
+        "url": "https://www.shl.com/products/product-catalog/view/microsoft-excel-365-new/",
+        "description": "The Microsoft Excel 365 simulation evaluates ability to perform certain operations in a simulated environment of MS Excel, and includes the following topics: Applying Formulas and Functions, Creating and Analyzing Data, Formatting Cells, Data, and Content, Managing Workbooks and Worksheets, Presenting Data Visually, Printing and Views, and Sharing, Maintaining, and Securing Workbooks.",
+        "job_levels": [
+            "Entry-Level"
+        ],
+        "languages": [
+            "English (USA)"
+        ],
+        "assessment_time": "Approximate Completion Time in minutes = 35",
+        "test_type": "K",
+        "remote_testing": "No"
+    },
+    {
+        "url": "https://www.shl.com/products/product-catalog/view/ms-excel-new/",
+        "description": "Multi-choice test that measures the ability to use MS Excel to maintain, organize, analyze and present numeric data.",
+        "job_levels": [
+            "Entry-Level",
+            "Graduate",
+            "Manager",
+            "Mid-Professional",
+            "Professional Individual Contributor",
+            "Supervisor"
+        ],
+        "languages": [
+            "English (USA)",
+            "Spanish",
+            "French",
+            "Portuguese (Brazil)"
+        ],
+        "assessment_time": "Approximate Completion Time in minutes = 6",
+        "test_type": "K",
+        "remote_testing": "No"
+    },
+    {
+        "url": "https://www.shl.com/products/product-catalog/view/ms-office-basic-computer-literacy-sim-new/",
+        "description": "Simulation based test that measures the ability to use basic computer operations, browser navigation, MS office and email.",
+        "job_levels": [
+            "Entry-Level",
+            "Graduate",
+            "Manager",
+            "Mid-Professional",
+            "Professional Individual Contributor",
+            "Supervisor"
+        ],
+        "languages": [
+            "English (USA)"
+        ],
+        "assessment_time": "Approximate Completion Time in minutes = 5",
+        "test_type": "S",
+        "remote_testing": "No"
+    },
+    {
+        "url": "https://www.shl.com/products/product-catalog/view/ms-word-new/",
+        "description": "Multi-choice test that measures the ability to use MS Word to record and save textual information.",
+        "job_levels": [
+            "Professional Individual Contributor",
+            "Supervisor",
+            "Mid-Professional",
+            "Entry-Level",
+            "Graduate",
+            "Manager"
+        ],
+        "languages": [
+            "Spanish",
+            "French",
+            "Portuguese (Brazil)",
+            "English (USA)"
+        ],
+        "assessment_time": "Approximate Completion Time in minutes = 4",
+        "test_type": "K",
+        "remote_testing": "No"
+    },
+    {
+        "url": "https://www.shl.com/products/product-catalog/view/bookkeeping-accounting-auditing-clerk-short-form/",
+        "description": "The Bookkeeping, Accounting, and Auditing Clerk solution is for entry-level positions that involve entering numerical data into computer systems and maintaining financial records. Sample tasks for this job include, but are not limited to: entering financial data into computers; checking financial records for accuracy; perform routine computations on financial data. Potential job titles that use this solution are: Accounting Clerk, Bookkeeper, Accounting Associate, Auditing Clerk and Accounts Receivable Clerk.",
+        "job_levels": [
+            "Entry-Level"
+        ],
+        "languages": [
+            "English (USA)"
+        ],
+        "assessment_time": "Approximate Completion Time in minutes = 49",
+        "test_type": "P",
+        "remote_testing": "No"
+    },
+    {
+        "url": "https://www.shl.com/products/product-catalog/view/general-entry-level-data-entry-7-0-solution/",
+        "description": "Our General Entry Level – Data Entry 7.0 solution is designed for entry-level positions that include entering data into computers or data management systems. This solution measures speed and accuracy at typing text and numbers into forms and predicts the following types of behaviors foundational to all jobs: being on-time to work; following rules and policies; treating others respectfully; producing quality work; meeting goals; and approaching work in a thorough and precise manner.  \r\n\r\nThis solution can be used across all industries with entry-level positions. Example titles include, but are not limited to: Accounting Clerk, Accounts Receivable Clerk, Administrative Clerk, Clerical Aide, Clerical Assistant, Office Assistant, Office Services Specialist, Staff Assistant.Report Language Availability:English (USA)",
+        "job_levels": [
+            "General Population",
+            "Entry-Level"
+        ],
+        "languages": [
+            "English (USA)"
+        ],
+        "assessment_time": "Approximate Completion Time in minutes = 24",
+        "test_type": "B",
+        "remote_testing": "No"
+    },
+    {
+        "url": "https://www.shl.com/products/product-catalog/view/accounts-payable-simulation-new/",
+        "description": "Simulated data entry test that measures the ability to process payables and vendor invoices.",
+        "job_levels": [
+            "Entry-Level",
+            "Graduate",
+            "Mid-Professional",
+            "Professional Individual Contributor"
+        ],
+        "languages": [
+            "English (USA)"
+        ],
+        "assessment_time": "Approximate Completion Time in minutes = 8",
+        "test_type": "S",
+        "remote_testing": "No"
+    },
+    {
+        "url": "https://www.shl.com/products/product-catalog/view/accounts-receivable-simulation-new/",
+        "description": "Simulated data entry test that measures the ability to process receivables and invoices.",
+        "job_levels": [
+            "Entry-Level",
+            "Graduate",
+            "Mid-Professional",
+            "Professional Individual Contributor"
+        ],
+        "languages": [
+            "English (USA)"
+        ],
+        "assessment_time": "Approximate Completion Time in minutes = 8",
+        "test_type": "S",
+        "remote_testing": "No"
+    },
+    {
+        "url": "https://www.shl.com/products/product-catalog/view/basic-computer-literacy-windows-10-new/",
+        "description": "The Basic Computer Literacy (Windows 10) simulation measures knowledge of general computer terminology, processes, and applications and the ability to perform certain operations in a simulated environment resembling the actual application. This simulation consists of both multiple choice and simulation-based questions, and includes the following topics: Application Software, Computer Terms, Internet and Email, Managing Files, Operating System, and Parts of the Computer.",
+        "job_levels": [
+            "Entry-Level"
+        ],
+        "languages": [
+            "English (USA)"
+        ],
+        "assessment_time": "Approximate Completion Time in minutes = 30",
+        "test_type": "S",
+        "remote_testing": "No"
+    },
+    {
+        "url": "https://www.shl.com/products/product-catalog/view/data-entry-new/",
+        "description": "Simulated data entry test that measures the ability to accurately transcribe data from pre-filled forms and the ability to verify pre-filled data.",
+        "job_levels": [
+            "Entry-Level"
+        ],
+        "languages": [
+            "English (USA)"
+        ],
+        "assessment_time": "Approximate Completion Time in minutes = 4",
+        "test_type": "S",
+        "remote_testing": "No"
+    },
+    {
+        "url": "https://www.shl.com/products/product-catalog/view/data-entry-alphanumeric-split-screen-us/",
+        "description": "The Data Entry Alphanumeric Split Screen - US assessment measures speed and accuracy at typing text and numbers into forms. The information includes business-related text and numbers such as invoice number, address, product number and amount. The test assesses for speed and accuracy.",
+        "job_levels": [
+            "Professional Individual Contributor",
+            "Mid-Professional",
+            "Front Line Manager",
+            "Entry-Level"
+        ],
+        "languages": [
+            "English (USA)"
+        ],
+        "assessment_time": "Approximate Completion Time in minutes = 5",
+        "test_type": "K",
+        "remote_testing": "No"
+    },
+    {
+        "url": "https://www.shl.com/products/product-catalog/view/data-entry-numeric-split-screen-us/",
+        "description": "The Data Entry Numeric Split Screen - US assessment measures speed and accuracy at typing numbers into forms. The information candidates must enter includes business-related records including number fields such as customer number, order number, item number and quantity. Candidates may use either the keyboard's numeric keypad or the number keys at the top of the keyboard.",
+        "job_levels": [
+            "Mid-Professional",
+            "Professional Individual Contributor",
+            "Entry-Level",
+            "Front Line Manager"
+        ],
+        "languages": [
+            "English (USA)"
+        ],
+        "assessment_time": "Approximate Completion Time in minutes = 5",
+        "test_type": "K",
+        "remote_testing": "No"
+    },
+    {
+        "url": "https://www.shl.com/products/product-catalog/view/data-entry-ten-key-split-screen/",
+        "description": "Data Entry Ten Key Split Screen assessment measures ability to enter numbers using a numeric keypad. The test measures accuracy and speed.",
+        "job_levels": [
+            "Entry-Level",
+            "Front Line Manager",
+            "Mid-Professional",
+            "Professional Individual Contributor"
+        ],
+        "languages": [
+            "English (USA)"
+        ],
+        "assessment_time": "Approximate Completion Time in minutes = 3",
+        "test_type": "K",
+        "remote_testing": "No"
+    },
+    {
+        "url": "https://www.shl.com/products/product-catalog/view/microsoft-excel-365-essentials-new/",
+        "description": "The Microsoft Excel 365 - Essentials simulation evaluates ability to perform certain operations in a simulated environment of MS Excel, and includes the following topics: Applying Formulas and Functions, Creating and Analyzing Data, Formatting Cells, Data, and Content, Managing Workbooks and Worksheets, Presenting Data Visually, Printing and Views, and Sharing, Maintaining, and Securing Workbooks.",
+        "job_levels": [
+            "Entry-Level"
+        ],
+        "languages": [
+            "English (USA)"
+        ],
+        "assessment_time": "Approximate Completion Time in minutes = 30",
+        "test_type": "K",
+        "remote_testing": "No"
+    },
+    {
+        "url": "https://www.shl.com/products/product-catalog/view/microsoft-excel-365-new/",
+        "description": "The Microsoft Excel 365 simulation evaluates ability to perform certain operations in a simulated environment of MS Excel, and includes the following topics: Applying Formulas and Functions, Creating and Analyzing Data, Formatting Cells, Data, and Content, Managing Workbooks and Worksheets, Presenting Data Visually, Printing and Views, and Sharing, Maintaining, and Securing Workbooks.",
+        "job_levels": [
+            "Entry-Level"
+        ],
+        "languages": [
+            "English (USA)"
+        ],
+        "assessment_time": "Approximate Completion Time in minutes = 35",
+        "test_type": "K",
+        "remote_testing": "No"
+    },
+    {
+        "url": "https://www.shl.com/products/product-catalog/view/ms-excel-new/",
+        "description": "Multi-choice test that measures the ability to use MS Excel to maintain, organize, analyze and present numeric data.",
+        "job_levels": [
+            "Entry-Level",
+            "Graduate",
+            "Manager",
+            "Mid-Professional",
+            "Professional Individual Contributor",
+            "Supervisor"
+        ],
+        "languages": [
+            "English (USA)",
+            "Spanish",
+            "French",
+            "Portuguese (Brazil)"
+        ],
+        "assessment_time": "Approximate Completion Time in minutes = 6",
+        "test_type": "K",
+        "remote_testing": "No"
+    },
+    {
+        "url": "https://www.shl.com/products/product-catalog/view/ms-office-basic-computer-literacy-sim-new/",
+        "description": "Simulation based test that measures the ability to use basic computer operations, browser navigation, MS office and email.",
+        "job_levels": [
+            "Entry-Level",
+            "Graduate",
+            "Manager",
+            "Mid-Professional",
+            "Professional Individual Contributor",
+            "Supervisor"
+        ],
+        "languages": [
+            "English (USA)"
+        ],
+        "assessment_time": "Approximate Completion Time in minutes = 5",
+        "test_type": "S",
+        "remote_testing": "No"
+    },
+    {
+        "url": "https://www.shl.com/products/product-catalog/view/ms-word-new/",
+        "description": "Multi-choice test that measures the ability to use MS Word to record and save textual information.",
+        "job_levels": [
+            "Professional Individual Contributor",
+            "Supervisor",
+            "Mid-Professional",
+            "Entry-Level",
+            "Graduate",
+            "Manager"
+        ],
+        "languages": [
+            "Spanish",
+            "French",
+            "Portuguese (Brazil)",
+            "English (USA)"
+        ],
+        "assessment_time": "Approximate Completion Time in minutes = 4",
+        "test_type": "K",
+        "remote_testing": "No"
+    },
+    {
+        "url": "https://www.shl.com/products/product-catalog/view/accounts-payable-new/",
+        "description": "Multiple-choice test that measures the knowledge of processing payables and vendor invoices, and the posting of journal entries.",
+        "job_levels": [
+            "Entry-Level",
+            "Graduate",
+            "Mid-Professional",
+            "Professional Individual Contributor"
+        ],
+        "languages": [
+            "English (USA)"
+        ],
+        "assessment_time": "Approximate Completion Time in minutes = 9",
+        "test_type": "K",
+        "remote_testing": "No"
+    },
+    {
+        "url": "https://www.shl.com/products/product-catalog/view/accounts-payable-simulation-new/",
+        "description": "Simulated data entry test that measures the ability to process payables and vendor invoices.",
+        "job_levels": [
+            "Entry-Level",
+            "Graduate",
+            "Mid-Professional",
+            "Professional Individual Contributor"
+        ],
+        "languages": [
+            "English (USA)"
+        ],
+        "assessment_time": "Approximate Completion Time in minutes = 8",
+        "test_type": "S",
+        "remote_testing": "No"
+    },
+    {
+        "url": "https://www.shl.com/products/product-catalog/view/accounts-receivable-new/",
+        "description": "Multiple-choice test that measures the knowledge of processing receivables and invoices.",
+        "job_levels": [
+            "Entry-Level",
+            "Graduate",
+            "Mid-Professional",
+            "Professional Individual Contributor"
+        ],
+        "languages": [
+            "English (USA)"
+        ],
+        "assessment_time": "Approximate Completion Time in minutes = 13",
+        "test_type": "K",
+        "remote_testing": "No"
+    },
+    {
+        "url": "https://www.shl.com/products/product-catalog/view/accounts-receivable-simulation-new/",
+        "description": "Simulated data entry test that measures the ability to process receivables and invoices.",
+        "job_levels": [
+            "Entry-Level",
+            "Graduate",
+            "Mid-Professional",
+            "Professional Individual Contributor"
+        ],
+        "languages": [
+            "English (USA)"
+        ],
+        "assessment_time": "Approximate Completion Time in minutes = 8",
+        "test_type": "S",
+        "remote_testing": "No"
+    },
+    {
+        "url": "https://www.shl.com/products/product-catalog/view/basic-computer-literacy-windows-10-new/",
+        "description": "The Basic Computer Literacy (Windows 10) simulation measures knowledge of general computer terminology, processes, and applications and the ability to perform certain operations in a simulated environment resembling the actual application. This simulation consists of both multiple choice and simulation-based questions, and includes the following topics: Application Software, Computer Terms, Internet and Email, Managing Files, Operating System, and Parts of the Computer.",
+        "job_levels": [
+            "Entry-Level"
+        ],
+        "languages": [
+            "English (USA)"
+        ],
+        "assessment_time": "Approximate Completion Time in minutes = 30",
+        "test_type": "S",
+        "remote_testing": "No"
+    },
+    {
+        "url": "https://www.shl.com/products/product-catalog/view/contact-center-call-simulation-new/",
+        "description": "Simulation based test that measures the ability to handle customer concerns over a call by referring to standard process documents. It also measures typing and documentation skills.",
+        "job_levels": [
+            "Entry-Level"
+        ],
+        "languages": [
+            "English (USA)"
+        ],
+        "assessment_time": "Approximate Completion Time in minutes = 15",
+        "test_type": "S",
+        "remote_testing": "No"
+    },
+    {
+        "url": "https://www.shl.com/products/product-catalog/view/data-entry-alphanumeric-split-screen-us/",
+        "description": "The Data Entry Alphanumeric Split Screen - US assessment measures speed and accuracy at typing text and numbers into forms. The information includes business-related text and numbers such as invoice number, address, product number and amount. The test assesses for speed and accuracy.",
+        "job_levels": [
+            "Professional Individual Contributor",
+            "Mid-Professional",
+            "Front Line Manager",
+            "Entry-Level"
+        ],
+        "languages": [
+            "English (USA)"
+        ],
+        "assessment_time": "Approximate Completion Time in minutes = 5",
+        "test_type": "K",
+        "remote_testing": "No"
+    },
+    {
+        "url": "https://www.shl.com/products/product-catalog/view/data-entry-numeric-split-screen-us/",
+        "description": "The Data Entry Numeric Split Screen - US assessment measures speed and accuracy at typing numbers into forms. The information candidates must enter includes business-related records including number fields such as customer number, order number, item number and quantity. Candidates may use either the keyboard's numeric keypad or the number keys at the top of the keyboard.",
+        "job_levels": [
+            "Mid-Professional",
+            "Professional Individual Contributor",
+            "Entry-Level",
+            "Front Line Manager"
+        ],
+        "languages": [
+            "English (USA)"
+        ],
+        "assessment_time": "Approximate Completion Time in minutes = 5",
+        "test_type": "K",
+        "remote_testing": "No"
+    },
+    {
+        "url": "https://www.shl.com/products/product-catalog/view/data-entry-ten-key-split-screen/",
+        "description": "Data Entry Ten Key Split Screen assessment measures ability to enter numbers using a numeric keypad. The test measures accuracy and speed.",
+        "job_levels": [
+            "Entry-Level",
+            "Front Line Manager",
+            "Mid-Professional",
+            "Professional Individual Contributor"
+        ],
+        "languages": [
+            "English (USA)"
+        ],
+        "assessment_time": "Approximate Completion Time in minutes = 3",
+        "test_type": "K",
+        "remote_testing": "No"
+    },
+    {
+        "url": "https://www.shl.com/products/product-catalog/view/microsoft-word-365-essentials-new/",
+        "description": "The Microsoft Word 365 - Essentials simulation evaluates ability to perform certain operations in a simulated environment of Microsoft Word, and includes the following topics: Applying Illustrations and Graphics, Applying Page Layout, Creating Content, Creating, Printing, and Saving Documents, Formatting Content, Proofreading Documents and Reviewing, Maintaining, and Securing Documents.",
+        "job_levels": [
+            "Entry-Level"
+        ],
+        "languages": [
+            "English (USA)"
+        ],
+        "assessment_time": "Approximate Completion Time in minutes = 25",
+        "test_type": "K",
+        "remote_testing": "No"
+    },
+    {
+        "url": "https://www.shl.com/products/product-catalog/view/microsoft-word-365-new/",
+        "description": "The Microsoft Word 365 simulation evaluates ability to perform certain operations in a simulated environment of Microsoft Word, and includes the following topics: Applying Illustrations and Graphics, Applying Page Layout, Creating Content, Creating, Printing, and Saving Documents, Formatting Content, Proofreading Documents and Reviewing, Maintaining, and Securing Documents.",
+        "job_levels": [
+            "Entry-Level"
+        ],
+        "languages": [
+            "English (USA)"
+        ],
+        "assessment_time": "Approximate Completion Time in minutes = 35",
+        "test_type": "S",
+        "remote_testing": "No"
+    },
+    {
+        "url": "https://www.shl.com/products/product-catalog/view/ms-word-new/",
+        "description": "Multi-choice test that measures the ability to use MS Word to record and save textual information.",
+        "job_levels": [
+            "Professional Individual Contributor",
+            "Supervisor",
+            "Mid-Professional",
+            "Entry-Level",
+            "Graduate",
+            "Manager"
+        ],
+        "languages": [
+            "Spanish",
+            "French",
+            "Portuguese (Brazil)",
+            "English (USA)"
+        ],
+        "assessment_time": "Approximate Completion Time in minutes = 4",
+        "test_type": "K",
+        "remote_testing": "No"
+    },
+    {
+        "url": "https://www.shl.com/products/product-catalog/view/accounts-payable-new/",
+        "description": "Multiple-choice test that measures the knowledge of processing payables and vendor invoices, and the posting of journal entries.",
+        "job_levels": [
+            "Entry-Level",
+            "Graduate",
+            "Mid-Professional",
+            "Professional Individual Contributor"
+        ],
+        "languages": [
+            "English (USA)"
+        ],
+        "assessment_time": "Approximate Completion Time in minutes = 9",
+        "test_type": "K",
+        "remote_testing": "No"
+    },
+    {
+        "url": "https://www.shl.com/products/product-catalog/view/accounts-payable-simulation-new/",
+        "description": "Simulated data entry test that measures the ability to process payables and vendor invoices.",
+        "job_levels": [
+            "Entry-Level",
+            "Graduate",
+            "Mid-Professional",
+            "Professional Individual Contributor"
+        ],
+        "languages": [
+            "English (USA)"
+        ],
+        "assessment_time": "Approximate Completion Time in minutes = 8",
+        "test_type": "S",
+        "remote_testing": "No"
+    },
+    {
+        "url": "https://www.shl.com/products/product-catalog/view/accounts-receivable-new/",
+        "description": "Multiple-choice test that measures the knowledge of processing receivables and invoices.",
+        "job_levels": [
+            "Entry-Level",
+            "Graduate",
+            "Mid-Professional",
+            "Professional Individual Contributor"
+        ],
+        "languages": [
+            "English (USA)"
+        ],
+        "assessment_time": "Approximate Completion Time in minutes = 13",
+        "test_type": "K",
+        "remote_testing": "No"
+    },
+    {
+        "url": "https://www.shl.com/products/product-catalog/view/accounts-receivable-simulation-new/",
+        "description": "Simulated data entry test that measures the ability to process receivables and invoices.",
+        "job_levels": [
+            "Entry-Level",
+            "Graduate",
+            "Mid-Professional",
+            "Professional Individual Contributor"
+        ],
+        "languages": [
+            "English (USA)"
+        ],
+        "assessment_time": "Approximate Completion Time in minutes = 8",
+        "test_type": "S",
+        "remote_testing": "No"
+    },
+    {
+        "url": "https://www.shl.com/products/product-catalog/view/basic-computer-literacy-windows-10-new/",
+        "description": "The Basic Computer Literacy (Windows 10) simulation measures knowledge of general computer terminology, processes, and applications and the ability to perform certain operations in a simulated environment resembling the actual application. This simulation consists of both multiple choice and simulation-based questions, and includes the following topics: Application Software, Computer Terms, Internet and Email, Managing Files, Operating System, and Parts of the Computer.",
+        "job_levels": [
+            "Entry-Level"
+        ],
+        "languages": [
+            "English (USA)"
+        ],
+        "assessment_time": "Approximate Completion Time in minutes = 30",
+        "test_type": "S",
+        "remote_testing": "No"
+    },
+    {
+        "url": "https://www.shl.com/products/product-catalog/view/contact-center-call-simulation-new/",
+        "description": "Simulation based test that measures the ability to handle customer concerns over a call by referring to standard process documents. It also measures typing and documentation skills.",
+        "job_levels": [
+            "Entry-Level"
+        ],
+        "languages": [
+            "English (USA)"
+        ],
+        "assessment_time": "Approximate Completion Time in minutes = 15",
+        "test_type": "S",
+        "remote_testing": "No"
+    },
+    {
+        "url": "https://www.shl.com/products/product-catalog/view/data-entry-alphanumeric-split-screen-us/",
+        "description": "The Data Entry Alphanumeric Split Screen - US assessment measures speed and accuracy at typing text and numbers into forms. The information includes business-related text and numbers such as invoice number, address, product number and amount. The test assesses for speed and accuracy.",
+        "job_levels": [
+            "Professional Individual Contributor",
+            "Mid-Professional",
+            "Front Line Manager",
+            "Entry-Level"
+        ],
+        "languages": [
+            "English (USA)"
+        ],
+        "assessment_time": "Approximate Completion Time in minutes = 5",
+        "test_type": "K",
+        "remote_testing": "No"
+    },
+    {
+        "url": "https://www.shl.com/products/product-catalog/view/data-entry-numeric-split-screen-us/",
+        "description": "The Data Entry Numeric Split Screen - US assessment measures speed and accuracy at typing numbers into forms. The information candidates must enter includes business-related records including number fields such as customer number, order number, item number and quantity. Candidates may use either the keyboard's numeric keypad or the number keys at the top of the keyboard.",
+        "job_levels": [
+            "Mid-Professional",
+            "Professional Individual Contributor",
+            "Entry-Level",
+            "Front Line Manager"
+        ],
+        "languages": [
+            "English (USA)"
+        ],
+        "assessment_time": "Approximate Completion Time in minutes = 5",
+        "test_type": "K",
+        "remote_testing": "No"
+    },
+    {
+        "url": "https://www.shl.com/products/product-catalog/view/data-entry-ten-key-split-screen/",
+        "description": "Data Entry Ten Key Split Screen assessment measures ability to enter numbers using a numeric keypad. The test measures accuracy and speed.",
+        "job_levels": [
+            "Entry-Level",
+            "Front Line Manager",
+            "Mid-Professional",
+            "Professional Individual Contributor"
+        ],
+        "languages": [
+            "English (USA)"
+        ],
+        "assessment_time": "Approximate Completion Time in minutes = 3",
+        "test_type": "K",
+        "remote_testing": "No"
+    },
+    {
+        "url": "https://www.shl.com/products/product-catalog/view/microsoft-word-365-essentials-new/",
+        "description": "The Microsoft Word 365 - Essentials simulation evaluates ability to perform certain operations in a simulated environment of Microsoft Word, and includes the following topics: Applying Illustrations and Graphics, Applying Page Layout, Creating Content, Creating, Printing, and Saving Documents, Formatting Content, Proofreading Documents and Reviewing, Maintaining, and Securing Documents.",
+        "job_levels": [
+            "Entry-Level"
+        ],
+        "languages": [
+            "English (USA)"
+        ],
+        "assessment_time": "Approximate Completion Time in minutes = 25",
+        "test_type": "K",
+        "remote_testing": "No"
+    },
+    {
+        "url": "https://www.shl.com/products/product-catalog/view/microsoft-word-365-new/",
+        "description": "The Microsoft Word 365 simulation evaluates ability to perform certain operations in a simulated environment of Microsoft Word, and includes the following topics: Applying Illustrations and Graphics, Applying Page Layout, Creating Content, Creating, Printing, and Saving Documents, Formatting Content, Proofreading Documents and Reviewing, Maintaining, and Securing Documents.",
+        "job_levels": [
+            "Entry-Level"
+        ],
+        "languages": [
+            "English (USA)"
+        ],
+        "assessment_time": "Approximate Completion Time in minutes = 35",
+        "test_type": "S",
+        "remote_testing": "No"
+    },
+    {
+        "url": "https://www.shl.com/products/product-catalog/view/ms-word-new/",
+        "description": "Multi-choice test that measures the ability to use MS Word to record and save textual information.",
+        "job_levels": [
+            "Professional Individual Contributor",
+            "Supervisor",
+            "Mid-Professional",
+            "Entry-Level",
+            "Graduate",
+            "Manager"
+        ],
+        "languages": [
+            "Spanish",
+            "French",
+            "Portuguese (Brazil)",
+            "English (USA)"
+        ],
+        "assessment_time": "Approximate Completion Time in minutes = 4",
+        "test_type": "K",
+        "remote_testing": "No"
+    }
+]

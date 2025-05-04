@@ -1,0 +1,6 @@
+
+https://www.shl.com/products/product-catalog/?keyword=Operations&action_doFilteringForm=Search&job_family=1&job_level=3&language=3&f=1
+https://www.shl.com/products/product-catalog/?keyword=Strategy&action_doFilteringForm=Search&job_family=1&job_level=3&language=3&f=1
+https://www.shl.com/products/product-catalog/?keyword=Finance&action_doFilteringForm=Search&job_family=1&job_level=3&language=3&f=1
+https://www.shl.com/products/product-catalog/?keyword=Data&action_doFilteringForm=Search&job_family=2&job_level=2&industry=1&f=1
+https://www.shl.com/products/product-catalog/?keyword=Process&action_doFilteringForm=Search&job_family=2&job_level=2&industry=1&f=1

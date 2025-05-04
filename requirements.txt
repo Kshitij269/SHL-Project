@@ -1,0 +1,30 @@
+# Flask Web Framework
+flask==3.0.2
+
+# Embedding & Retrieval
+openai==1.25.1           # If using OpenAI for embeddings
+faiss-cpu==1.8.0         # Vector search engine
+
+# Web scraping (optional)
+beautifulsoup4==4.12.3
+requests==2.31.0
+
+# Data processing
+pandas==2.2.2
+numpy==1.26.4
+scikit-learn==1.4.2
+
+# Evaluation
+tqdm==4.66.2
+
+# Streamlit for optional demo UI
+streamlit==1.35.0
+
+# Env management
+python-dotenv==1.0.1
+
+streamlit
+
+uvicorn
+
+google-genai

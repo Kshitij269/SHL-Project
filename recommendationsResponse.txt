@@ -1,0 +1,46 @@
+{
+  "recommendations": {
+    "recommended_assessments": [
+      {
+        "url": "https://www.shl.com/products/product-catalog/view/basic-computer-literacy-windows-10-new/",
+        "adaptive_support": "No",
+        "description": "The Basic Computer Literacy (Windows 10) simulation measures knowledge of general computer terminology, processes, and applications and the ability to perform certain operations in a simulated environment resembling the actual application. This simulation consists of both multiple choice and simulation-based questions, and includes the following topics: Application Software, Computer Terms, Internet and Email, Managing Files, Operating System, and Parts of the Computer.",
+        "duration": 30,
+        "remote_support": "No",
+        "test_type": [
+          "Simulation"
+        ]
+      },
+      {
+        "url": "https://www.shl.com/products/product-catalog/view/microsoft-excel-365-essentials-new/",
+        "adaptive_support": "No",
+        "description": "The Microsoft Excel 365 - Essentials simulation evaluates ability to perform certain operations in a simulated environment of MS Excel, and includes the following topics: Applying Formulas and Functions, Creating and Analyzing Data, Formatting Cells, Data, and Content, Managing Workbooks and Worksheets, Presenting Data Visually, Printing and Views, and Sharing, Maintaining, and Securing Workbooks.",
+        "duration": 30,
+        "remote_support": "No",
+        "test_type": [
+          "Skill"
+        ]
+      },
+      {
+        "url": "https://www.shl.com/products/product-catalog/view/microsoft-excel-365-new/",
+        "adaptive_support": "No",
+        "description": "The Microsoft Excel 365 simulation evaluates ability to perform certain operations in a simulated environment of MS Excel, and includes the following topics: Applying Formulas and Functions, Creating and Analyzing Data, Formatting Cells, Data, and Content, Managing Workbooks and Worksheets, Presenting Data Visually, Printing and Views, and Sharing, Maintaining, and Securing Workbooks.",
+        "duration": 35,
+        "remote_support": "No",
+        "test_type": [
+          "Skill"
+        ]
+      },
+      {
+        "url": "https://www.shl.com/products/product-catalog/view/microsoft-word-365-new/",
+        "adaptive_support": "No",
+        "description": "The Microsoft Word 365 simulation evaluates ability to perform certain operations in a simulated environment of Microsoft Word, and includes the following topics: Applying Illustrations and Graphics, Applying Page Layout, Creating Content, Creating, Printing, and Saving Documents, Formatting Content, Proofreading Documents and Reviewing, Maintaining, and Securing Documents.",
+        "duration": 35,
+        "remote_support": "No",
+        "test_type": [
+          "Simulation"
+        ]
+      }
+    ]
+  }
+}
